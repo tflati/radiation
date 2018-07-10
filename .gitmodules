@@ -1,0 +1,6 @@
+[submodule "project/engine"]
+	path = project/engine
+	url = https://github.com/tflati/interface-engine.git
+[submodule "project/django_server/radiation/Ballgown_Extractor"]
+	path = project/django_server/radiation/Ballgown_Extractor
+	url = https://github.com/Itagliaf/Ballgown_Extractor.git
